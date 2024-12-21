@@ -1,0 +1,63 @@
+# Build Results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / IDE specific files
+.idea/
+*.idea/
+.idea_modules/
+.idea/*
+
+# Visual Studio specific files
+.vscode/
+.vs/
+
+# Log files
+*.log
+*.tlog
+*.log/
+
+# Package Files
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Cache and generated files
+*.Cache
+*.class
+*.dll
+*.exe
+*.pdb
+*.pyc
+*.db
+*.sqlite
+
+# ASP.NET
+Generated_Code/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# DotNet
+*.runtimeconfig.dev.json
+*.deps.json
+*.coverage
+*.coveragexml
+
